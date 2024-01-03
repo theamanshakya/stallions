@@ -417,6 +417,7 @@ select:focus {
   border-bottom: 1px solid var(--lightgrey-color); }
 
 .navbar .navbar-brand .logo-display {
+  width:100px;
   display: block; }
 
 .navbar .navbar-brand .logo-scrolled {
@@ -426,6 +427,7 @@ select:focus {
   display: none; }
 
 .navbar.sticked.in .navbar-brand .logo-scrolled {
+  width:100px;
   display: block; }
 
 .navbar-nav .nav-item.active > .nav-link,
